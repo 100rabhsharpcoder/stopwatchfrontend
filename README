@@ -1,0 +1,16 @@
+ Stopwatch Frontend project using HTML CSS and Javascript 
+
+file name 
+1 index.html
+2 index.css
+3 index.js
+
+functions
+start button to start the counter
+stop button to stop counter
+reset for reseting the pointer n
+and lap for stroing lap history to keep track on laps
+
+
+
+
